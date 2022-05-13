@@ -10,3 +10,10 @@ Morse - Morse code
 Conversie - Conversion of Morse
 
 Please look Report & PPT for clear understanding
+
+## Contributors
+
+Naveen R
+Praneeth
+Shashi Prakash
+Rishik T S
